@@ -1,5 +1,3 @@
-package ClientSide;
-
 import Client.AuthenticationDate;
 import Client.WorkingFrame;
 import ClientWindow.ClientFrameData;
