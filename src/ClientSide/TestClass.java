@@ -129,6 +129,7 @@ public class TestClass extends JFrame{
     }
 }
 
+
 class SuperDuperListCellRenderer extends DefaultListCellRenderer {
 
     private ArrayList <String> changeList;
